@@ -28,13 +28,6 @@
 *.sln.docstates
 
 # Build results
-Debug/
-Release/
-x64/
-build/
-*.dll
-*.lib
-*.o
 
 # Other
 *.class
